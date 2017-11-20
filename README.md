@@ -3,6 +3,7 @@ Build all basic data structure in javascript, my favorite language without a dou
 
 <br/>
 
+## Why JS
 When it comes to data stucture, people firstly think about python or Java which I personally don't think they are the choise. Javascript itself is a more beautiful, flexible and friendly language in the following reason:
 - Runs everywhere, thanks to node
 - Curly braces are the best, to have clear code blocks and scope
@@ -17,7 +18,7 @@ When it comes to data stucture, people firstly think about python or Java which 
 - 03 Binary Search Tree
 - 04 Hash Table
 
-## author
+## Author
 Andy Chen ([amazingandyyy](github.com/amazingandyyy))
 
 ## LICENSE
