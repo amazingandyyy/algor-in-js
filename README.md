@@ -1,4 +1,4 @@
-# Data Structure in Javascript
+# Algorithms in Javascript
 Write basic data structure and algorithms in javascript, my favorite language without a doubt.
 
 <br/>
