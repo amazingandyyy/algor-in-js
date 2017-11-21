@@ -1,5 +1,5 @@
 # Data Structure in Javascript
-Build all basic data structure in javascript, my favorite language without a doubt.
+Write basic data structure and algorithms in javascript, my favorite language without a doubt.
 
 <br/>
 
