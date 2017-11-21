@@ -1,0 +1,3 @@
+function harmlessRansomNote(noteText, magazinText) {
+  
+}
