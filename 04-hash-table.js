@@ -1,3 +1,5 @@
+// Big O Notation:  O (1)
+
 class HashTable {
   constructor(size) {
     this.bucket = Array(size);
@@ -30,19 +32,27 @@ class HashTable {
   }
   get(key) {
     var index = this.hash(key);
-    if (!this.bucket[index])
-      return null;
-    if (this.bucket[key] === key)
-      return this.bucket[key];
+    if (!this.bucket[index]) return null;
+    if (this.bucket[key] === key) return this.bucket[key];
     else {
       var currentNode = this.bucket[index];
       while (currentNode) {
-        if (currentNode.key === key)
-          return currentNode;
+        if (currentNode.key === key) return currentNode;
         currentNode = currentNode.next;
       }
       return null;
     }
+  }
+  retriveAll() {
+    var result = [];
+    for (var i=0 ; i < this.numBucket; i++){
+        var currentNode = this.bucket[i];
+        while(currentNode) {
+          result.push(currentNode);
+          currentNode = currentNode.next;
+        }
+    }
+    return result;
   }
 }
 
@@ -61,7 +71,8 @@ myHT.insert('Bob', 'bob@mail.com');
 console.log('old', myHT);
 
 myHT.insert('Andy', 'andy-new@mail.com');
-console.log('new', myHT);
+// console.log('new', myHT);
 
-console.log(myHT.get("Nayd")); // null
-console.log(myHT.get("Andy")); // 'andy-new@mail.com'
+// console.log(myHT.get("Nayd")); // null
+// console.log(myHT.get("Andy")); // 'andy-new@mail.com'
+console.log('retriveAll', myHT.retriveAll());

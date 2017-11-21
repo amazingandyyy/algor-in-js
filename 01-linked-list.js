@@ -1,3 +1,5 @@
+// Big O Notation:  O (N)
+
 class LinkedList {
   constructor() {
     this.head = null;

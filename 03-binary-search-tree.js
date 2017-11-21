@@ -1,3 +1,5 @@
+// Big O Notation:  O (log(n))
+
 class BST {
   constructor(value) {
     this.value = value;
