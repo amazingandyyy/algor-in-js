@@ -21,7 +21,7 @@ When it comes to data stucture, people firstly think about python or Java which 
 - 06 Harmless Ransom Note
 - 07 Palindrome
 - 08 Caesar Cipher
-- 09 Eeverse Words
+- 09 Reverse Words
 - 10 Reverse Array In Place
 
 ## Author
