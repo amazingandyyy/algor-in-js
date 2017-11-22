@@ -1,3 +1,5 @@
+// Big O Notation:  O (N)
+
 function isPalindrame(string) {
   string = string.toLowerCase();
   var charactersArr = string.split('');

@@ -1,3 +1,5 @@
+// Big O Notation:  O (N^2) <- not sure
+
 function reverseWords(string) {
   var stringArr = string.split(' ');
   

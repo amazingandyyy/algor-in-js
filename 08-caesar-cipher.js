@@ -1,3 +1,5 @@
+// Big O Notation:  O (N)
+
 function caesarCipher(str, num) {
   var alphArr = 'abcdefghijklmnopqrstuvwxyz'.split('');
   var strArr = str.toLowerCase().split('');
