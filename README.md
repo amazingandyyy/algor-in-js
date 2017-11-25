@@ -24,6 +24,11 @@ When it comes to data stucture, people firstly think about python or Java which 
 - 09 Reverse Words
 - 10 Reverse Array In Place
 
+## Resources
+- Learning Algorithms in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch)
+- Learning Data Structures in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/)
+- 10 Common Data Structures Explained with Videos + Exercises by Beau Carnes on [medium](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+
 ## Author
 Andy Chen ([amazingandyyy](github.com/amazingandyyy))
 
