@@ -58,7 +58,7 @@ When it comes to data stucture, people firstly think about python or Java which 
 - 10 Common Data Structures Explained with Videos + Exercises by Beau Carnes on [medium](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 
 ## Author
-Andy Chen ([amazingandyyy](github.com/amazingandyyy))
+Andy Chen ([amazingandyyy](https://github.com/amazingandyyy))
 
 ## LICENSE
 [MIT](https://github.com/amazingandyyy/algorithms-in-js/blob/master/LICENSE)
