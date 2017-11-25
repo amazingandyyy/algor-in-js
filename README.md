@@ -13,25 +13,44 @@ When it comes to data stucture, people firstly think about python or Java which 
 - The best testing cycle
 
 ## Topics
-- 01 Linked List
-- 02 Recursion
-- 03 Binary Search Tree
-- 04 Hash Table
-- 05 Fizz Buzz
-- 06 Harmless Ransom Note
-- 07 Palindrome
-- 08 Caesar Cipher
-- 09 Reverse Words
-- 10 Reverse Array In Place
-- 11 Mean Median Mode
-- 12 Two Sum
-- 13 Binary Search
-- 14 Fibonacci
-- 15 Memoized Fibonacci
-- 16 Sieve Of Eratosthenes
-- 17 Bubble Sort
-- 18 Merge Sort
-- 19 Max Stock Profit
+- 01 [Linked List](https://github.com/amazingandyyy/algorithms-in-js/blob/master/01-linked-list.js)
+- 02 [Recursion](https://github.com/amazingandyyy/algorithms-in-js/blob/master/02-recursion.js)
+- 03 [Binary Search Tree](https://github.com/amazingandyyy/algorithms-in-js/blob/master/03-binary-search-tree.js)
+- 04 [Hash Table](https://github.com/amazingandyyy/algorithms-in-js/blob/master/04-hash-table.js)
+- 05 [Fizz Buzz](https://github.com/amazingandyyy/algorithms-in-js/blob/master/05-fizz-buzz.js)
+- 06 [Harmless Ransom Note](https://github.com/amazingandyyy/algorithms-in-js/blob/master/06-harmless-ransom-note.js)
+- 07 [Palindrome](https://github.com/amazingandyyy/algorithms-in-js/blob/master/07-palindrome.js)
+- 08 [Caesar Cipher](https://github.com/amazingandyyy/algorithms-in-js/blob/master/08-caesar-cipher.js)
+- 09 [Reverse Words](https://github.com/amazingandyyy/algorithms-in-js/blob/master/09-reverse-words.js)
+- 10 [Reverse Array In Place](https://github.com/amazingandyyy/algorithms-in-js/blob/master/10-reverse-array-in-place.js)
+- 11 [Mean Median Mode](https://github.com/amazingandyyy/algorithms-in-js/blob/master/11-mean-median-mode.js)
+- 12 [Two Sum](https://github.com/amazingandyyy/algorithms-in-js/blob/master/12-two-sum.js)
+- 13 [Binary Search](https://github.com/amazingandyyy/algorithms-in-js/blob/master/13-binary-search.js)
+- 14 [Fibonacci](https://github.com/amazingandyyy/algorithms-in-js/blob/master/14-fibonacci.js)
+- 15 [Memoized Fibonacci](https://github.com/amazingandyyy/algorithms-in-js/blob/master/15-memoized-fibonacci.js)
+- 16 [Sieve Of Eratosthenes](https://github.com/amazingandyyy/algorithms-in-js/blob/master/16-sieve-of-eratosthenes.js)
+- 17 [Bubble Sort](https://github.com/amazingandyyy/algorithms-in-js/blob/master/17-bubble-sort.js)
+- 18 [Merge Sort](https://github.com/amazingandyyy/algorithms-in-js/blob/master/18-merge-sort.js)
+- 19 [Max Stock Profit](https://github.com/amazingandyyy/algorithms-in-js/blob/master/19-max-stock-profit.js)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Resources
 - Learning Algorithms in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch)
