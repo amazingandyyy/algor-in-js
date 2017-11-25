@@ -23,6 +23,15 @@ When it comes to data stucture, people firstly think about python or Java which 
 - 08 Caesar Cipher
 - 09 Reverse Words
 - 10 Reverse Array In Place
+- 11 Mean Median Mode
+- 12 Two Sum
+- 13 Binary Search
+- 14 Fibonacci
+- 15 Memoized Fibonacci
+- 16 Sieve Of Eratosthenes
+- 17 Bubble Sort
+- 18 Merge Sort
+- 19 Max Stock Profit
 
 ## Resources
 - Learning Algorithms in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch)
@@ -33,4 +42,4 @@ When it comes to data stucture, people firstly think about python or Java which 
 Andy Chen ([amazingandyyy](github.com/amazingandyyy))
 
 ## LICENSE
-MIT
+[MIT](https://github.com/amazingandyyy/algorithms-in-js/blob/master/LICENSE)
