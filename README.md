@@ -34,24 +34,6 @@ When it comes to data stucture, people firstly think about python or Java which 
 - 19 [Max Stock Profit](https://github.com/amazingandyyy/algorithms-in-js/blob/master/19-max-stock-profit.js)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Resources
 - Learning Algorithms in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch)
 - Learning Data Structures in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/)
