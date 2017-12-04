@@ -4,7 +4,7 @@ Write basic data structure and algorithms in javascript, my favorite language wi
 <br/>
 
 ## Why JS
-When it comes to data stucture, people firstly think about python or Java which I personally don't think they are the choise. Javascript itself is a more beautiful, flexible and friendly language in the following reason:
+When it comes to the data structure, people first think about python or Java which I personally don’t think they are the choice. Javascript itself is a more beautiful, flexible and friendly language in the following reason:
 - Runs everywhere, thanks to node
 - Curly braces are the best, to have clear code blocks and scope
 - Event-driven makes projects written in JS more accessible and fun
