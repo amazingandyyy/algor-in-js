@@ -1,10 +1,11 @@
 # Algorithms in Javascript
+
 Write basic data structure and algorithms in javascript, my favorite language without a doubt.
 
-<br/>
-
 ## Why JS
+
 When it comes to the data structure, people first think about python or Java which I personally don’t think they are the choice. Javascript itself is a more beautiful, flexible and friendly language in the following reason:
+
 - Runs everywhere, thanks to node
 - Curly braces are the best, to have clear code blocks and scope
 - Event-driven makes projects written in JS more accessible and fun
@@ -13,6 +14,7 @@ When it comes to the data structure, people first think about python or Java whi
 - The best testing cycle
 
 ## Topics
+
 - 01 [Linked List](https://github.com/amazingandyyy/algorithms-in-js/blob/master/01-linked-list.js)
 - 02 [Recursion](https://github.com/amazingandyyy/algorithms-in-js/blob/master/02-recursion.js)
 - 03 [Binary Search Tree](https://github.com/amazingandyyy/algorithms-in-js/blob/master/03-binary-search-tree.js)
@@ -35,12 +37,19 @@ When it comes to the data structure, people first think about python or Java whi
 
 
 ## Resources
+
 - Learning Algorithms in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch)
 - Learning Data Structures in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/)
+- The Coding Interview Bootcamp: Algorithms + Data Structures [udemy](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/)
+- Welcome to Data Structure and Algorithms Analysis - Job Interview [udemy](https://www.udemy.com/data-structure-and-algorithms-analysis/learn/v4/overview)
+- C Language + Algorithms + Data Structures = Power [udemy](https://www.udemy.com/clang-algo-ds/learn/v4/overview)
+- Easy to Advanced Data Structures[udemy](https://www.udemy.com/introduction-to-data-structures/learn/v4/overview)
 - 10 Common Data Structures Explained with Videos + Exercises by Beau Carnes on [medium](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 
 ## Author
+
 Andy Chen ([amazingandyyy](https://github.com/amazingandyyy))
 
 ## LICENSE
+
 [MIT](https://github.com/amazingandyyy/algorithms-in-js/blob/master/LICENSE)
