@@ -38,13 +38,13 @@ When it comes to the data structure, people first think about python or Java whi
 
 ## Resources
 
-- Learning Algorithms in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch)
-- Learning Data Structures in Javascript from Scratch by Eric Traub on [udemy](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/)
-- The Coding Interview Bootcamp: Algorithms + Data Structures [udemy](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/)
-- Welcome to Data Structure and Algorithms Analysis - Job Interview [udemy](https://www.udemy.com/data-structure-and-algorithms-analysis/learn/v4/overview)
-- C Language + Algorithms + Data Structures = Power [udemy](https://www.udemy.com/clang-algo-ds/learn/v4/overview)
-- Easy to Advanced Data Structures[udemy](https://www.udemy.com/introduction-to-data-structures/learn/v4/overview)
-- 10 Common Data Structures Explained with Videos + Exercises by Beau Carnes on [medium](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
+- [x] **Learning Algorithms in Javascript from Scratch** by Eric Traub on [udemy](https://www.udemy.com/learning-algorithms-in-javascript-from-scratch)
+- [x] **Learning Data Structures in Javascript from Scratch** by Eric Traub on [udemy](https://www.udemy.com/learning-data-structures-in-javascript-from-scratch/)
+- [ ] **The Coding Interview Bootcamp: Algorithms + Data Structures** by Stephen Grider on [udemy](https://www.udemy.com/coding-interview-bootcamp-algorithms-and-data-structure/learn/v4/)
+- [ ] **Welcome to Data Structure and Algorithms Analysis - Job Interview** by Hussein Al Rubaye on [udemy](https://www.udemy.com/data-structure-and-algorithms-analysis/learn/v4/overview)
+- [ ] **C Language + Algorithms + Data Structures = Power** by Nidhal Abidi on [udemy](https://www.udemy.com/clang-algo-ds/learn/v4/overview)
+- [ ] **Easy to Advanced Data Structures** by William Fiset on [udemy](https://www.udemy.com/introduction-to-data-structures/learn/v4/overview)
+- [x] **10 Common Data Structures Explained with Videos + Exercises** by Beau Carnes on [medium](https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b)
 
 ## Author
 
